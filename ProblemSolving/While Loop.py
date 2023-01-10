@@ -47,3 +47,14 @@ while limit>count:
     square=number*number
     print("Square:",+square)
 
+"""
+Print rev of a number
+"""
+rev=0
+num=int(input("Enter a number: ")) #147
+while num!=0:
+    slice=num%10 #7
+    rev=rev*10+slice#7
+    num=num//10
+print(num)
+print(rev)
