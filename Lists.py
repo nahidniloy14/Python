@@ -39,7 +39,19 @@ fruits.append('date')
 print(fruits)
 #['banana', 'grape', 'orange', 'apple', 'pineapple', 'watermelon', 'date']
 
-#pop element from last
+#remove from a list
+fruits=['banana','grape','orange','apple','pineapple','watermelon']
+fruits.remove('grape')
+print(fruits)
+#['banana', 'orange', 'apple', 'pineapple', 'watermelon']
+
+#clear all items from a list
+fruits=['banana','grape','orange','apple','pineapple','watermelon']
+fruits.clear()
+print(fruits)
+
+
+#pop element from list
 #pop function
 fruits=['banana','grape','orange','apple','pineapple','watermelon']
 fruits.pop()
@@ -69,3 +81,8 @@ fruits=['banana','grape','orange','apple','pineapple','watermelon']
 fruits.reverse()
 print(fruits)
 #['watermelon', 'pineapple', 'apple', 'orange', 'grape', 'banana']
+
+#check index
+fruits=['banana','grape','orange','apple','pineapple','watermelon']
+print(fruits.index('grape'))
+print('date' in fruits)
