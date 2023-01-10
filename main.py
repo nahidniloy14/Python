@@ -1,11 +1,10 @@
-i = 10
-while i > 1:
-    if i == 9:
-        i=i-1
-        continue
-    if i == 4:
-        break
-    print(i)
-    i=i-1
-
+temp=int(input("Temparature in Celcius Today: "))
+if temp>=30:
+    print("Weather is hot")
+elif temp<=20:
+    print("Weateher is cold")
+elif temp in range(20,30):
+    print("Weather is moderate")
+else:
+    print("Invalid")
 

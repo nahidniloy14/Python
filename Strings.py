@@ -22,3 +22,13 @@ Nahid Hassan Niloy
 '''
 print(email)
 
+#String Methods
+tutorial="Python String Methods"
+print(len(tutorial))
+print(tutorial.upper()) #PYTHON STRING METHODS
+print(tutorial.lower()) #python string methods
+# gives the index
+print(tutorial.find('t'))
+#replace string
+print(tutorial.replace('String','Class'))
+print('Python' in tutorial) #True
