@@ -1,6 +1,5 @@
 
 
-
 """
 Maximum number from a list
 """
