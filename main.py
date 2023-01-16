@@ -1,3 +1,5 @@
-list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
-list1[2][2].append(7000)
+list1 = [5, 20, 15, 20, 25, 50, 20]
+
+while 20 in list1:
+    list1.remove(20)
 print(list1)

@@ -115,3 +115,45 @@ list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]>>
 list1 = [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
 list1[2][2].append(7000)
 print(list1)
+
+"""
+list1 = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+sub_list = ["h", "i", "j"]
+add sublist to existing list
+"""
+list1 = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+sub_list = ["h", "i", "j"]
+
+# understand indexing
+# list1[2] = ['c', ['d', 'e', ['f', 'g'], 'k'], 'l']
+# list1[2][1] = ['d', 'e', ['f', 'g'], 'k']
+# list1[2][1][2] = ['f', 'g']
+
+# solution
+list1[2][1][2].extend(sub_list)
+print(list1)
+
+"""
+Write a program to find value 20 in the list, 
+and if it is present, replace it with 200. Only update the first occurrence of an item.
+list1 = [5, 10, 15, 20, 25, 50, 20]
+"""
+
+list1 = [5, 10, 15, 20, 25, 50, 20]
+# get the first occurrence index
+index = list1.index(20)
+# update item present at location
+list1[index] = 200
+print(list1)
+
+
+"""
+remove 20 from the list 
+list1 = [5, 20, 15, 20, 25, 50, 20]
+
+"""
+list1 = [5, 20, 15, 20, 25, 50, 20]
+
+while 20 in list1:
+    list1.remove(20)
+print(list1)

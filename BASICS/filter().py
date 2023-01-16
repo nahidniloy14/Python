@@ -1,11 +1,11 @@
-"""
-Remove empty strings from the list of strings
-list1 = ["Mike", "", "Emma", "Kelly", "", "Brad"]
-["Mike", "Emma", "Kelly", "Brad"]
-"""
+list1 = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+sub_list = ["h", "i", "j"]
 
-list1 = ["Mike", "", "Emma", "Kelly", "", "Brad"]
-# remove None from list1 and convert result into list
-res = list(filter(None, list1))
-print(res)
+# understand indexing
+# list1[2] = ['c', ['d', 'e', ['f', 'g'], 'k'], 'l']
+# list1[2][1] = ['d', 'e', ['f', 'g'], 'k']
+# list1[2][1][2] = ['f', 'g']
 
+# solution
+list1[2][1][2].extend(sub_list)
+print(list1)
