@@ -1,5 +1,8 @@
-list1 = [5, 20, 15, 20, 25, 50, 20]
+import random
+import string
 
-while 20 in list1:
-    list1.remove(20)
-print(list1)
+def generate_string():
+    lettter_digits=string.ascii_letters+string.digits
+    return ''.join(random.choice(lettter_digits) for i in range(8))
+
+print(generate_string())

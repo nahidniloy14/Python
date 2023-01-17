@@ -144,3 +144,80 @@ for row_2 in range(5):
     for column in range(row_2 + 1):
         print(' ',end=" ")
     print('\n')
+
+"""
+Print first 10 numbers
+"""
+for num in range(5):
+    print(num)
+
+"""
+Sum of all odd numbers from 10 to 20
+"""
+for num in range(11,20,2):
+    print(num)
+
+"""
+user entered 10 the output should be 55 (1+2+3+4+5+6+7+8+9+10)
+"""
+num=int(input("Enter a Number: "))
+sum=0
+for i in range(0,num):
+    #print(i)
+    sum=sum+i
+print(sum)
+
+"""
+Time Table
+"""
+num=int(input("Enter a number"))
+for i in range(0,10):
+    i+=1
+    mul=i*2
+    print(mul)
+"""
+Retrive value and reversed value from a list
+"""
+list1 = [10, 20, 30, 40, 50]
+# reverse list
+new_list = reversed(list1)
+list1.reverse()
+print(list1)
+# iterate reversed list
+for item in new_list:
+    print(item)
+print("----------------")
+for val in list1:
+    print(val)
+
+"""
+print -10 to -1
+"""
+for i in range(-10,0):
+    print(i)
+
+"""
+Prime numbers between 25,50
+"""
+for num in range(25, 51):
+    for i in range(2, num):
+        if num % i == 0:
+            break
+    else:
+        print(num)
+
+"""
+Factorial of a number
+"""
+num = 5
+factorial = 1
+if num < 0:
+    print("Factorial does not exist for negative numbers")
+elif num == 0:
+    print("The factorial of 0 is 1")
+else:
+    # run loop 5 times
+    for i in range(1, num + 1):
+        # multiply factorial by current number
+        factorial = factorial * i
+    print("The factorial of", num, "is", factorial)
