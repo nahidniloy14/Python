@@ -221,3 +221,14 @@ else:
         # multiply factorial by current number
         factorial = factorial * i
     print("The factorial of", num, "is", factorial)
+
+"""
+Print cube of number
+"""
+number= int(input("Enter a  number: "))
+cube=1
+for i in range(0,number):
+    i=i+1
+    cube=i**3
+    #print(cube)
+    print(f"The cube of {i} is {cube}")

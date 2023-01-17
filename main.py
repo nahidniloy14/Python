@@ -1,8 +1,6 @@
-import random
-import string
-
-def generate_string():
-    lettter_digits=string.ascii_letters+string.digits
-    return ''.join(random.choice(lettter_digits) for i in range(8))
-
-print(generate_string())
+sample_dict = {
+    'Physics': 82,
+    'Math': 65,
+    'history': 75
+}
+print(min(sample_dict, key=sample_dict.get))
