@@ -1,11 +1,23 @@
-a=3 #need not to mention data type in python
+"""
+"""
+
+"""
+- We need not to mention data type in python
+- no need to worry about the return type
+"""
+
+
+a=3
 print(a)
 b= "Hello World"
-print(b)#no need to worry about the return type
-c,d,e=15,4.7,"Hello World"#multiple variables
+print(b)
+#multiple variables
+c,d,e=15,4.7,"Hello World"
 print(c,d,e)
 price=10 #int
 rating=4.9 #decimal
 name='Mosh' #string
-is_published =False #boolean F should be uppercase
+
+#boolean F and T should be uppercase
+is_published =False
 
