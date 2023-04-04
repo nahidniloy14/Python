@@ -52,6 +52,7 @@ def generate_string():
     return ''.join(random.choice(lettter_digits) for i in range(8))
 
 print(generate_string())
+
 """
 Sum of series
 """

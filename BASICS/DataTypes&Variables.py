@@ -3,7 +3,7 @@
 
 """
 - We need not to mention data type in python
-- no need to worry about the return type
+- No need to worry about the return type
 """
 
 
