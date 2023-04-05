@@ -1,5 +1,16 @@
 """
+FUNCTION
 """
+"""
+Functions allows us to create blocks of code that can be easily executed many times
+without needing to rewrite the block of code
+def name_of_function():
+def is the keyword to identify this as a function
+we use snake casing to write a function.
+snake casing is all small letters with underscore between this to call a function we must use the paranthesis 
+"""
+
+
 #NON PARAMETERIZED
 """
 def greet():
@@ -17,6 +28,18 @@ def greet(name):
 greet("Niloy")
 greet("John")
 """
+
+
+#Using default value as a parameter
+def greet(name):
+    print(f'Hello!! good morning {name}')
+
+greet('Abbas')
+
+def greet(name='abcxyz'):
+    print(f'Hello!! good morning {name}')
+
+greet()
 
 # Positional Argument
 """
@@ -40,6 +63,8 @@ def square(num):
     return num*num
 
 print(square(2))
+
+
 
 """
 Generate a string of random 8 numbers
