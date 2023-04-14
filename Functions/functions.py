@@ -2,12 +2,11 @@
 FUNCTION
 """
 """
-Functions allows us to create blocks of code that can be easily executed many times
-without needing to rewrite the block of code
+Functions allows us to create blocks of code that can be easily executed many times without needing to rewrite the block of code
 def name_of_function():
 def is the keyword to identify this as a function
-we use snake casing to write a function.
-snake casing is all small letters with underscore between this to call a function we must use the paranthesis 
+We use snake casing to write a function.
+Snake casing is all small letters with underscore between this to call a function we must use the paranthesis 
 """
 
 

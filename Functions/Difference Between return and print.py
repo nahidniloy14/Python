@@ -2,7 +2,7 @@
 Difference between return and print
 """
 """
-Use print when you want to show a value to a human. return is a keyword. 
+Use print when you want to show a value to a human. On the other hand, return is a keyword. 
 When a return statement is reached, Python will stop the execution of the current function, sending a value out to where the function was called. 
 Use return when you want to send a value from one point in your code to another.
 """
