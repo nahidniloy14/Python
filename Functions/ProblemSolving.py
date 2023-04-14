@@ -27,3 +27,11 @@ ratio=r=3
 series=n=5
 
 print(sum_series(n,a,r))
+
+"""
+Check a number if it is even or not
+"""
+def even_check(number):
+    result=number%2==0
+    return result
+print(even_check(22))
