@@ -2,7 +2,7 @@
 FUNCTION
 """
 """
-Functions allows us to create blocks of code that can be easily executed many times without needing to rewrite the block of code
+Methods And Functions allows us to create blocks of code that can be easily executed many times without needing to rewrite the block of code
 def name_of_function():
 def is the keyword to identify this as a function
 We use snake casing to write a function.
