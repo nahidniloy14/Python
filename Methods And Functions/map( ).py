@@ -9,8 +9,13 @@ instead what we can do is to use the map function
 num=[1,2,3,4,5,6,7,8]
 for item in map(num_square,num):
     print(item)
-
-
+print("..........................")
+print(map(num_square,num))#<map object at 0x000001993F08FAC0>
+"""
+This will give us the memory location to get our actual result we can 
+get this numbers as a list
+"""
+print(list(map(num_square,num)))
 print("..........................")
 for item in num:
     num=item**2
