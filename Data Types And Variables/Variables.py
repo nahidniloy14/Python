@@ -1,11 +1,3 @@
-"""
-"""
-
-"""
-- We need not to mention data type in python
-- No need to worry about the return type
-"""
-
 
 a=3
 print(a)
