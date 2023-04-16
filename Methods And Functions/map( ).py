@@ -7,8 +7,8 @@ Our compiler would not allow us to do this thing,
 instead what we can do is to use the map function
 """
 num=[1,2,3,4,5,6,7,8]
-for item in map(num_square,num):
-    print(item)
+# for item in map(num_square,num):
+#     print(item)
 print("..........................")
 print(map(num_square,num))#<map object at 0x000001993F08FAC0>
 """
