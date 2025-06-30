@@ -25,7 +25,7 @@ class Point:
         print("draw")
 
 
-# object creation
+# object creation of class
 shape = Point()
 shape.draw()
 shape.x = 10
