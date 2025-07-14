@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="Practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparisn Operators (if,else,elif)/Grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Grade.executor": "Run",
     "Python.Module1_Assignment1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,6 +78,7 @@
       <workItem from="1752077352846" duration="2000" />
       <workItem from="1752096434663" duration="2000" />
       <workItem from="1752183823721" duration="599000" />
+      <workItem from="1752516259341" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <option name="closed" value="true" />
