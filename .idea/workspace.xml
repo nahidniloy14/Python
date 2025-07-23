@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="number opertaions">
-      <change beforePath="$PROJECT_DIR$/pythonBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics.ipynb" afterDir="false" />
+    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="ostad live test completed">
+      <change afterPath="$PROJECT_DIR$/Ostad/Module2_Assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ostad/Module3_LiveTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ostad/Module3_Assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ostad/Module3_Assignment1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +45,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module1_Assignment1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module2_Assignment2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Grade.executor": "Run",
+    "Python.Input.executor": "Run",
+    "Python.Module1_Assignment1.executor": "Run",
+    "Python.Module2_Assignment1.executor": "Run",
+    "Python.Module2_Assignment2.executor": "Run",
+    "Python.Module3_Assignment1.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\PycharmProjects\Python\Ostad" />
@@ -89,6 +95,8 @@
       <workItem from="1752596907738" duration="3458000" />
       <workItem from="1752684654705" duration="1834000" />
       <workItem from="1752785660887" duration="409000" />
+      <workItem from="1753203758246" duration="882000" />
+      <workItem from="1753289036058" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <option name="closed" value="true" />
@@ -138,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752785688728</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="in touch with loops">
+      <option name="closed" value="true" />
+      <created>1753203779379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753203779379</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ostad live test completed">
+      <option name="closed" value="true" />
+      <created>1753203987812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753203987812</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,11 +174,15 @@
     <MESSAGE value="problem Solving nested conditions!!" />
     <MESSAGE value="ostad assignment" />
     <MESSAGE value="number opertaions" />
-    <option name="LAST_COMMIT_MESSAGE" value="number opertaions" />
+    <MESSAGE value="in touch with loops" />
+    <MESSAGE value="ostad live test completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ostad live test completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$Grade.coverage" NAME="Grade Coverage Results" MODIFIED="1752517370537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comparisn Operators (if,else,elif)" />
     <SUITE FILE_PATH="coverage/Python$even_odd.coverage" NAME="even_odd Coverage Results" MODIFIED="1752597985603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comparisn Operators (if,else,elif)" />
+    <SUITE FILE_PATH="coverage/Python$Module2_Assignment1.coverage" NAME="Module2_Assignment1 Coverage Results" MODIFIED="1753289460816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ostad" />
+    <SUITE FILE_PATH="coverage/Python$Module3_Assignment1.coverage" NAME="Module3_Assignment1 Coverage Results" MODIFIED="1753289224773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ostad" />
     <SUITE FILE_PATH="coverage/Python$Module1_Assignment1.coverage" NAME="Module1_Assignment1 Coverage Results" MODIFIED="1752184057701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Module2_Assignment2.coverage" NAME="Module2_Assignment2 Coverage Results" MODIFIED="1752685130766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ostad" />
     <SUITE FILE_PATH="coverage/Python$Input.coverage" NAME="Input Coverage Results" MODIFIED="1752597362315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction To Python" />

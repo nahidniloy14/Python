@@ -1,19 +1,20 @@
 """
-Create a class named 'Student' with the variable 'name' and 'roll_no'. And write a Display method to display the name and roll_no. Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student.
+Create a class Person with attributes name and age. Create an object and display its details.
 
+Input: Person("Alice", 25)
 
+Output: Name: Alice, Age: 25
 """
-class Student:
-    def __init__(self, name, roll_no):
+class Person:
+    def __init__(self, name, age):
         self.name = name
-        self.roll_no = roll_no
+        self.age = age
 
-    def Display(self):
-        print(f"Name: {self.name}")
-        print(f"Roll No: {self.roll_no}")
+    def display(self):
+        print(f"Name: {self.name}, Age: {self.age}")
 
-# Create an object of the class Student
-student1 = Student("John", 2)
+# Create an object
+p = Person("Alice", 25)
 
-# Call the Display method
-student1.Display()
+# Display details
+p.display()
