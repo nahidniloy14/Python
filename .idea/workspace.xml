@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="ostad">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="started withs lists" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1752684654705" duration="1834000" />
       <workItem from="1752785660887" duration="409000" />
       <workItem from="1753203758246" duration="882000" />
-      <workItem from="1753289036058" duration="3143000" />
+      <workItem from="1753289036058" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <option name="closed" value="true" />
@@ -168,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753290353883</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="working with loops">
+      <option name="closed" value="true" />
+      <created>1753311300905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753311300905</updated>
+    </task>
+    <task id="LOCAL-00011" summary="started withs lists">
+      <option name="closed" value="true" />
+      <created>1753311865371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753311865371</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +196,9 @@
     <MESSAGE value="in touch with loops" />
     <MESSAGE value="ostad live test completed" />
     <MESSAGE value="ostad" />
-    <option name="LAST_COMMIT_MESSAGE" value="ostad" />
+    <MESSAGE value="working with loops" />
+    <MESSAGE value="started withs lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="started withs lists" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$Grade.coverage" NAME="Grade Coverage Results" MODIFIED="1752517370537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comparisn Operators (if,else,elif)" />
