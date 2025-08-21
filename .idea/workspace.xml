@@ -7,6 +7,7 @@
     <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="introduction to OOP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/pythonBasics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pythonBasics-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +99,7 @@
       <workItem from="1753289036058" duration="3721000" />
       <workItem from="1753460510996" duration="303000" />
       <workItem from="1753721041065" duration="3222000" />
+      <workItem from="1755535086780" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="Sync">
       <option name="closed" value="true" />
