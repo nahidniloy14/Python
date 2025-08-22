@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="introduction to OOP">
+    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="\fdasde">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/pythonBasics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pythonBasics-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
         <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
       </set>
     </attachedChunks>
