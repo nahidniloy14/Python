@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="\fdasde">
+    <list default="true" id="15f5088b-58ab-4c16-9809-1531008e15d9" name="Changes" comment="fake commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753740430793</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fake commit">
+      <option name="closed" value="true" />
+      <created>1755884478889</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755884478889</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +255,8 @@
     <MESSAGE value="set,tuple and lists" />
     <MESSAGE value="introduction to class" />
     <MESSAGE value="introduction to OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="introduction to OOP" />
+    <MESSAGE value="fake commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fake commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$Module3_Assignment2.coverage" NAME="Module3_Assignment2 Coverage Results" MODIFIED="1753460643960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ostad" />
